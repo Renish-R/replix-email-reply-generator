@@ -68,12 +68,12 @@ It provides a seamless experience for Gmail users through a **browser extension*
 
 ### Chrome Extension
 1. Visit [GitHub Pages](https://renish-r.github.io/replix-extension/).  
-2. Click **Add to Chrome** or **Install**.  
+2. Click **Download** -> **Un-zip** -> **Add to Chrome extension**.  
 3. Open Gmail — the **“May i”** button appears in the compose toolbar.
 
 ### Web UI
 1. Open [Replix Web](https://replix-web.vercel.app/).  
-2. Enter your email content and select the desired tone.  
+2. Enter your email content and select the desired tone(optional).  
 3. Generate AI replies directly from your browser.
 
 ---
@@ -81,7 +81,7 @@ It provides a seamless experience for Gmail users through a **browser extension*
 ## 💡 Usage
 
 1. Open Gmail and start composing a new email.  
-2. Click **“May i”** to generate a reply.  
+2. Click **“May I”** to generate a reply.  
 3. Select a tone for the email *(optional)*.  
 4. Edit the reply using the **Edit** button if needed.  
 5. Send the email as usual.
@@ -90,8 +90,8 @@ It provides a seamless experience for Gmail users through a **browser extension*
 
 ## 🌱 Future Improvements
 
-- 🌍 Add multi-language support for AI generation  
-- 🔐 Add user authentication for personalized suggestions  
+- 🌍 Multi-language support for AI generation  
+- 🔐 User authentication for personalized suggestions  
 - 💼 Improve web UI for handling multiple emails  
 
 ---
